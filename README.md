@@ -10,6 +10,9 @@ Developed by [Alex Kryvodub](https://www.linkedin.com/in/oleksandrkryvodub/) as 
 [![gif](https://github.com/urlaunched-com/SmileRate/blob/main/smile-rate.gif)]()
 [![gif](https://github.com/urlaunched-com/SmileRate/blob/main/smile-rate-dark-mode.gif)]()
 
+## Inspired by [Duy Luong](https://dribbble.com/shots/16380983-Office-Emotion-App-Concept) concept. <br>
+[![gif](https://github.com/urlaunched-com/SmileRate/blob/main/original-concept.gif)]()
+
 ## License
 
 	The MIT License (MIT)
