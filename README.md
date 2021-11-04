@@ -1,6 +1,6 @@
 # SmileRate
 
-Developed by [Alex Kryvodub](https://github.com/KryvodubOleksandr) as part of the You are launched [**"Design Concept Award"**](https://www.urlaunched.com) contest **Season #1**.
+Developed by [Alex Kryvodub](https://www.linkedin.com/in/oleksandrkryvodub/) as part of the You are launched [**"Design Concept Award"**](https://www.urlaunched.com) contest **Season #1**.
 
 <p align="center">
 <img src="https://github.com/urlaunched-com/TallyCounter/blob/main/dca_logo.png" width=50% height=50%>
